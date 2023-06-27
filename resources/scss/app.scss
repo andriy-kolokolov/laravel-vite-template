@@ -1,7 +1,7 @@
 @import "~bootstrap/scss/bootstrap";
+@use "partials/header";
+@use "partials/footer";
+@use "partials/variables";
 
-h1 {
-    color: crimson;
-}
 
 
